@@ -52,7 +52,7 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 ![img.7](gambar/7.png)
 
 3. Cari data
-![img.8](gambar/8.png
+![img.8](gambar/8.png)
 
 4. Hapus data
 ![img.9](gambar/9.png)
